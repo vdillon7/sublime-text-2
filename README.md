@@ -6,18 +6,18 @@ Packages, configs e etc...
 Packages disponíveis nesse git:
 
 -> Highlight:
-	Velocity
+	- Velocity	
+	- SASS
 
 -> Snippets:
-	Velocity
-
+	- Velocity	
+	- SASS	
 
 Packages baixados via package control:
 
 - cdnjs		
 - Detect Syntax		
 - Emmet		
-- Fetch		
 - Git 		
 - JsFormat		
 - Nettus Fetch		
