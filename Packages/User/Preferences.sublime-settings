@@ -1,0 +1,9 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"translate_tabs_to_spaces": false,
+    "word_wrap": false,
+    "word_width": 999999999
+}

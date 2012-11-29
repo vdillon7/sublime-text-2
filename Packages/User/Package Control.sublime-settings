@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"cdnjs",
+		"DetectSyntax",
+		"Emmet",
+		"Git",
+		"JsFormat",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Prefixr",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}
