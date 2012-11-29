@@ -14,16 +14,14 @@ Packages disponíveis nesse git:
 
 Packages baixados via package control:
 
-cdnjs	
-Detect Syntax	
-Emmet	
-Fetch	
-Git 	
-JsFormat	
-Nettus Fetch	
-sftp	
-sideBarEnhancements	
-SublimeLinter	
-Sublime Prefixr	
-
-
+- cdnjs		
+- Detect Syntax		
+- Emmet		
+- Fetch		
+- Git 		
+- JsFormat		
+- Nettus Fetch		
+- sftp		
+- sideBarEnhancements		
+- SublimeLinter		
+- Sublime Prefixr		
