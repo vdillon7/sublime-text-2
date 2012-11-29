@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#foreach( \$${1:\{i\}} in [${2:\{start\}}..${3:\{end\}}] )
+	${4}
+#end
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>

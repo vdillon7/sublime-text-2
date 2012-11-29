@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+#if( \$${1:i} )
+	${2}
+#else
+	${3}
+#end
+]]></content>
+	<tabTrigger>ifelse</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>

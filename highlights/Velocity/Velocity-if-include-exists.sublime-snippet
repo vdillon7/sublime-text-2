@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+#if( \$!{include.exists("${1}")} )
+    ${2}
+#else
+	${3}
+#end
+]]></content>
+	<tabTrigger>ifexists</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>

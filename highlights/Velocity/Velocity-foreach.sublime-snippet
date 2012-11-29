@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#foreach( \$${1:\{item\}} in \$!\{${2:\{itens\}}\} )
+	${3}
+#end
+]]></content>
+	<tabTrigger>foreach</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>
