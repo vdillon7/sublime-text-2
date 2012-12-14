@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+#isUrlMobileTeste( ${1} )
+#if( \$!{isUrlMobile} != false )
+	${2}
+#else
+	${3}
+#end
+	]]></content>
+	<tabTrigger>isurl</tabTrigger>
+	<scope>source.velocity</scope>
+</snippet>
